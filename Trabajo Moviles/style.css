@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, rgb(8, 214, 8), rgb(16, 219, 219));
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+    color: blue
+}
+
+p, li{
+    color: black;
+}
+
+img{
+    margin: 0 20px;
+}
